@@ -7,7 +7,8 @@
         flex flex-col
         items-center
         justify-center
-        py-20
+        pt-20
+        pb-10
         px-8
         bg-gradient-to-b
         from-rose-50
